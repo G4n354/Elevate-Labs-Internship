@@ -37,3 +37,16 @@ Matplotlib & Seaborn - Visualization
 5.Normalizing/standardizing the numerical features.
 
 6.Visualizing outliers using boxplots and remove them.
+
+------
+
+### --> Learned Skills
+
+Data cleaning
+
+Handling nulls 
+
+Encoding 
+
+Feature scaling
+
